@@ -1,0 +1,6 @@
+[install]
+exact = true
+
+[test]
+# upstream/ holds pristine upstream files, some of them tests that only run in their own repo.
+root = "test"

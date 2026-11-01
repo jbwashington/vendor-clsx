@@ -1,0 +1,13 @@
+{
+  "upstream": "lukeed/clsx",
+  "npm": "clsx",
+  "tag": "v2.1.1",
+  "commit": "925494cf31bcd97d3337aacd34e659e80cae7fe2",
+  "reviewed_through": "v2.1.1",
+  "files": [
+    "src/index.js",
+    "clsx.d.mts",
+    "license"
+  ],
+  "license": "MIT"
+}
